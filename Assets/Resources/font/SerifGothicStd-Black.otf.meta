@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 7a2c39404899b45058312d1245eb70c4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ITC Serif Gothic Std
+  fontNames:
+  - ITC Serif Gothic Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 627ba6c0d8cba4f4fbbdf2154238f0b5, type: 3}
+  - {fileID: 12800000, guid: 108d7c327360d4e2fa506696bf243718, type: 3}
+  - {fileID: 12800000, guid: 0901e95ac2efe49a7abfbe15553cb4fe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
